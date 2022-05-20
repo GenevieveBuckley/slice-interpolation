@@ -1,0 +1,7 @@
+matplotlib
+napari[all]
+scipy
+tifffile
+git+https://github.com/jni/zarpaint.git
+pytest
+
