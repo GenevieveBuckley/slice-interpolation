@@ -2,6 +2,7 @@ jupyter
 matplotlib
 napari[all]
 scipy
+tensorstore
 tifffile
 git+https://github.com/jni/zarpaint.git
 pytest
