@@ -1,9 +1,10 @@
 jupyter
 matplotlib
-napari[all]
+"napari[all]"
+pooch
 scipy
 tensorstore
 tifffile
-git+https://github.com/jni/zarpaint.git
+zarpaint
 pytest
 
